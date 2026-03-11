@@ -1,3 +1,5 @@
+import BlogLayout from '../../../components/layouts/blogLayout/BlogLayout';
+
 export default function BlogLandingPage() {
-    return <div>Blog Landing Page</div>;
+    return <BlogLayout>Blog Landing Page</BlogLayout>;
 }
